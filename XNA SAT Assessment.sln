@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XNA SAT Assessment", "XNA SAT Assessment\XNA SAT Assessment\XNA SAT Assessment.csproj", "{0A27B050-C04C-4647-A69C-818BD7BB21A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XNA SAT AssessmentContent", "XNA SAT Assessment\XNA SAT AssessmentContent\XNA SAT AssessmentContent.contentproj", "{BC4779E5-8FCE-4E80-A1EB-855651E7B3EA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9BBA770A-5256-4B64-91D6-C17E07C633EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A27B050-C04C-4647-A69C-818BD7BB21A0}.Debug|x86.ActiveCfg = Debug|x86
+		{0A27B050-C04C-4647-A69C-818BD7BB21A0}.Debug|x86.Build.0 = Debug|x86
+		{0A27B050-C04C-4647-A69C-818BD7BB21A0}.Release|x86.ActiveCfg = Release|x86
+		{0A27B050-C04C-4647-A69C-818BD7BB21A0}.Release|x86.Build.0 = Release|x86
+		{BC4779E5-8FCE-4E80-A1EB-855651E7B3EA}.Debug|x86.ActiveCfg = Debug|x86
+		{BC4779E5-8FCE-4E80-A1EB-855651E7B3EA}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

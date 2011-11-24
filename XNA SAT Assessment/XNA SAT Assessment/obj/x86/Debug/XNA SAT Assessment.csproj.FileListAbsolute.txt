@@ -1,0 +1,8 @@
+C:\Graphics\XNA SAT Assessment\XNA SAT Assessment\XNA SAT Assessment\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Graphics\XNA SAT Assessment\XNA SAT Assessment\XNA SAT Assessment\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Graphics\XNA SAT Assessment\XNA SAT Assessment\XNA SAT Assessment\bin\x86\Debug\XNA SAT Assessment.exe
+C:\Graphics\XNA SAT Assessment\XNA SAT Assessment\XNA SAT Assessment\bin\x86\Debug\XNA SAT Assessment.pdb
+C:\Graphics\XNA SAT Assessment\XNA SAT Assessment\XNA SAT Assessment\obj\x86\Debug\XNA SAT Assessment.exe
+C:\Graphics\XNA SAT Assessment\XNA SAT Assessment\XNA SAT Assessment\obj\x86\Debug\XNA SAT Assessment.pdb
+C:\Graphics\XNA SAT Assessment\XNA SAT Assessment\XNA SAT Assessment\bin\x86\Debug\Content\triangleSprite.xnb
+C:\Graphics\XNA SAT Assessment\XNA SAT Assessment\XNA SAT Assessment\bin\x86\Debug\Content\dot.xnb
